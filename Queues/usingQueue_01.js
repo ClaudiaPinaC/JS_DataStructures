@@ -1,6 +1,6 @@
 "use strict"
 
-const Queue = require('./Queue.js');
+const Queue = require('./queue_example_01.js');
 
 function findBin(n) {
     let result = [];
